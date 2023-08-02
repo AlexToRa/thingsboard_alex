@@ -76,7 +76,7 @@
         <curator.version>4.2.0</curator.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <protobuf.version>3.21.9</protobuf.version>
-        <grpc.version>1.42.1</grpc.version>
+        <grpc.version>1.57.1</grpc.version>
         <tbel.version>1.0.5</tbel.version>
         <lombok.version>1.18.18</lombok.version>
         <paho.client.version>1.2.4</paho.client.version>
@@ -771,7 +771,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
